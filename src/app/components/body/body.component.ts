@@ -12,4 +12,6 @@ export class BodyComponent {
         mensaje: "Un gran poder conlleva una gran responsabilidad",
         autor: "Peter Parker"
     }
+
+    personajes: string[] = ['Spiderman', 'Venom', 'Dr. Octopus'];
 }
